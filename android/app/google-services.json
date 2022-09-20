@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757694673667",
+    "project_id": "care-talk-16780",
+    "storage_bucket": "care-talk-16780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757694673667:android:dc3b4c5faaf8cc3748af36",
+        "android_client_info": {
+          "package_name": "com.example.care_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757694673667-qbmfk07h89ico6rah31f4dsdj463o136.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzsNb_w6CGT_atb0Y0wRfkBbecyWd520w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757694673667-qbmfk07h89ico6rah31f4dsdj463o136.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
