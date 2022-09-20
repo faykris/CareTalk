@@ -381,10 +381,10 @@ class _ChatAndStatusScreenState extends State<ChatAndStatusScreen> {
                       ])),
               _latestMessages.isEmpty
                   ? Column(children: [
-                      Container(
-                          alignment: Alignment.topCenter,
-                          child: _activityList(context)),
-                      const SizedBox(height: 70.0),
+                      // Container(
+                      //     alignment: Alignment.topCenter,
+                      //     child: _activityList(context)),
+                      const SizedBox(height: 90.0),
                       Container(
                           alignment: Alignment.center,
                           child: Row(
